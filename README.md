@@ -18,7 +18,7 @@ N/A
 
 ## Badges
 
-![Twitter](https://img.shields.io/twitter/url/https/twitter.com/julielearnscode.svg?style=social&label=Follow%20%40julielearnscode)(https://twitter.com/julielearnscode)
+![Twitter](https://img.shields.io/twitter/url/https/twitter.com/julielearnscode.svg?style=social&label=Follow%20%40julielearnscode)
 
 ## License
 
